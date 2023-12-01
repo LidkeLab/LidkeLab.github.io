@@ -10,7 +10,7 @@
 main:
 
   - title: "Research Highlights"
-  - url: /highlights/
+  - url: /portfolio/
   
   - title: "Team"
     url: /team/
@@ -22,7 +22,7 @@ main:
     url: /tools/    
 
   - title: "Positions"
-    url: /teaching/    
+    url: /positions/    
             
   # - title: "Blog Posts"
   #   url: /year-archive/
