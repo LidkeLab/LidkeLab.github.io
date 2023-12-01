@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -47,3 +48,8 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+=======
+
+**About us**
+Our research involves developing and using optical techniques, specifically fluorescence microscopy, for the study of the distribution, dynamics and interactions of cellular components. Cells scatter or absorb very little light in the visible range. Due to this transparency, fluorescence microscopy, a method where only the component of interest is tagged with a fluorophore, is one of the best techniques currently available to study the distribution and dynamics of cellular components in living or intact cells. However, the direct observation of static or dynamic interactions between cellular components has been elusive due to the fact that the resolution of the light microscope is ~ 250 nm, whereas interactions typically occur at the ~ 10 nm scale. The primary goal of the K.A Lidke lab is to develop new optical techniques that are able to probe cellular structure and dynamics at or close to the molecular scale and to apply these techniques to specific biological and biophysical questions. Our developed technology includes fluorescence superresolution techniques, single particle tracking and high-speed hyperspectral microscopy.
+>>>>>>> 9ba3399 (Update about.md)
