@@ -2,7 +2,7 @@
 main:
 
   - title: "News"
-  - url: /posts/
+  - url: /year-archive/
   
   - title: "Research Highlights"
   - url: /portfolio/
