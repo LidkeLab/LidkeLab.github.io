@@ -15,11 +15,11 @@ Wednesday, 3:30 pm in PAIS 2210
 | Jan 24, 2024  | Keith Lidke | matlab-instrument-control       |
 | Jan 31, 2024  |           |       |
 | Feb 07, 2024  |           |       |
-| Feb 14, 2024  |           |       |
+| Feb 14, 2024  | BPS       |       |
 | Feb 21, 2024  |           |       |
 | Feb 28, 2024  |           |       |
 | Mar 06, 2024  |           |       |
-| Mar 13, 2024  |           |       |
+| Mar 13, 2024  | Spring Break |       |
 | Mar 20, 2024  |           |       |
 | Mar 27, 2024  |           |       |
 | Apr 03, 2024  |           |       |
