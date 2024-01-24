@@ -13,18 +13,18 @@ Wednesday, 3:30 pm in PAIS 2210
 | Date          | Presenter | Topic |
 |---------------|-----------|-------|
 | Jan 24, 2024  | Keith Lidke | matlab-instrument-control       |
-| Jan 31, 2024  |           |       |
-| Feb 07, 2024  |           |       |
+| Jan 31, 2024  | Prince          | Research       |
+| Feb 07, 2024  | Sajjad          |       |
 | Feb 14, 2024  | BPS       |       |
-| Feb 21, 2024  |           |       |
-| Feb 28, 2024  |           |       |
-| Mar 06, 2024  |           |       |
+| Feb 21, 2024  | Chitra         |       |
+| Feb 28, 2024  | Ellyse          |       |
+| Mar 06, 2024  | Tonmoy          |       |
 | Mar 13, 2024  | Spring Break |       |
-| Mar 20, 2024  |           |       |
-| Mar 27, 2024  |           |       |
-| Apr 03, 2024  |           |       |
-| Apr 10, 2024  |           |       |
-| Apr 17, 2024  |           |       |
-| Apr 24, 2024  |           |       |
-| May 01, 2024  |           |       |
-| May 08, 2024  |           |       |
+| Mar 20, 2024  | Ali          |       |
+| Mar 27, 2024  | Sheng          |       |
+| Apr 03, 2024  | Milad          |       |
+| Apr 10, 2024  | Mahsa          |       |
+| Apr 17, 2024  | Keith          |       |
+| Apr 24, 2024  | Prince    |       |
+| May 01, 2024  | Ellyse          |       |
+| May 08, 2024  | Chitra       |       |
