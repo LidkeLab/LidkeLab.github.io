@@ -13,8 +13,8 @@ Wednesday, 3:30 pm in PAIS 2210
 | Date          | Presenter | Topic |
 |---------------|-----------|-------|
 | Jan 24, 2024  | Keith Lidke | matlab-instrument-control       |
-| Jan 31, 2024  | Prince          | Research       |
-| Feb 07, 2024  | Sajjad          |       |
+| Jan 31, 2024  | Prince          | Research, Pick paper       |
+| Feb 07, 2024  | Sajjad          | Journal       |
 | Feb 14, 2024  | BPS       |       |
 | Feb 21, 2024  | Chitra         |       |
 | Feb 28, 2024  | Ellyse          |       |
