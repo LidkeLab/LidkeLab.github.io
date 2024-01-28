@@ -8,6 +8,7 @@ permalink: /Courses/FluorNanoSpring2024/
 
 Wednesday, 3:30 pm in PAIS 2210
 
+[journal club sheet](https://docs.google.com/spreadsheets/d/17DKBtzhawTj-nRBKoQ5kQaz5jWHf75HPK8KtDwhv-7g/edit?usp=sharing)
 ## Schedule
 
 | Date          | Presenter | Topic |
