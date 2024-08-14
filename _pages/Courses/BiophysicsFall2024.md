@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "581 Biophysics"
 permalink: /Courses/BiophysicsFall2024/
 author_profile: true
