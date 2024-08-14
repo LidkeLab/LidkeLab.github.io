@@ -5,11 +5,6 @@ permalink: /Courses/BiophysicsFall2024/
 author_profile: true
 ---
 
-
-
-
-# 581 Biophysics Fall 2024
-
 # UNM Physics 480/581: Biological Physics
 
 ![PandA Home](images/panda_header.gif)
@@ -51,8 +46,8 @@ Each module has a corresponding final exam. Exam proctoring will be offered once
 ### Modules
 
 The modules listed below have attributes indicated by:
-<span style="color: green;">⬤</span> Appropriate for all undergraduates and graduate students  
-<span style="color: blue;">⬤</span> Appropriate for upper division physics majors and graduate students.  
+<span style="color: green;">Appropriate for all undergraduates and graduate students</span>  
+<span style="color: blue;">Appropriate for upper division physics majors and graduate students</span>  
 -X counts as X modules  
 (L) laboratory component  
 ^ Available as starting module in Fall 2017. Contact instructor if you had planned to start with other modules.  
@@ -62,57 +57,57 @@ This section will be periodically updated to provide more details about the modu
 
 #### Biophysics
 
-- Diffusion
-- Membranes and Lipids (L)
-- Muscle and Motor Proteins
-- Polymer Models
-- Free Energy and Entropic Forces
-- \* Theory of FRET
-- \* Ion Channels
-- \* Ultrasound
-- \* Molecular Dynamics
-- \* X-ray crystallography
-- \* AFM and SNOM
-- \* Optical Tweezers (L)
+- <span style="color: green;">Diffusion</span>
+- <span style="color: green;">Membranes and Lipids (L)</span>
+- <span style="color: blue;">Muscle and Motor Proteins</span>
+- <span style="color: blue;">Polymer Models</span>
+- <span style="color: blue;">Free Energy and Entropic Forces</span>
+- <span style="color: blue;">* Theory of FRET</span>
+- <span style="color: blue;">* Ion Channels</span>
+- <span style="color: blue;">* Ultrasound</span>
+- <span style="color: blue;">* Molecular Dynamics</span>
+- <span style="color: blue;">* X-ray crystallography</span>
+- <span style="color: blue;">* AFM and SNOM</span>
+- <span style="color: blue;">* Optical Tweezers (L)</span>
 
 #### Biology and Wet Bench Methods
 
-- Chemical and Bio Safety / Buffers and pH (L)
-- ^ Introduction to the Biology of the Cell
-- BioChemistry
-- Gel Electrophoresis (L)
-- Bio-conjugation Techniques (L)
-- Immunofluorescence (L)
-- DNA: PCR, Sequencing, Origami (L)
+- <span style="color: green;">Chemical and Bio Safety / Buffers and pH (L)</span>
+- <span style="color: green;">^ Introduction to the Biology of the Cell</span>
+- <span style="color: green;">BioChemistry</span>
+- <span style="color: green;">Gel Electrophoresis (L)</span>
+- <span style="color: green;">Bio-conjugation Techniques (L)</span>
+- <span style="color: green;">Immunofluorescence (L)</span>
+- <span style="color: green;">DNA: PCR, Sequencing, Origami (L)</span>
 
 #### Microscopy, Spectroscopy and Optics
 
-- ^ Lasers and Laser Safety (L)
-- Fluorescence Spectroscopy and Imaging-2 (L)
-- Super-resolution-2 (L)
-- Single Particle Tracking (L)
-- Forster Resonant Energy Transfer (FRET)
-- Point Spread Functions
-- Correlation Methods (FCS, ICS, RICS, etc)
-- \* Oslo/Zeemax
-- \* CAD / Adobe Inventor
+- <span style="color: green;">^ Lasers and Laser Safety (L)</span>
+- <span style="color: blue;">Fluorescence Spectroscopy and Imaging-2 (L)</span>
+- <span style="color: blue;">Super-resolution-2 (L)</span>
+- <span style="color: blue;">Single Particle Tracking (L)</span>
+- <span style="color: blue;">Forster Resonant Energy Transfer (FRET)</span>
+- <span style="color: blue;">Point Spread Functions</span>
+- <span style="color: blue;">Correlation Methods (FCS, ICS, RICS, etc)</span>
+- <span style="color: blue;">* Oslo/Zeemax</span>
+- <span style="color: blue;">* CAD / Adobe Inventor</span>
 
 #### Programming and Data/Image Analysis
 
-- ^ Programming I: Basic Skills in MATLAB
-- ^ Image Analysis
-- Image Analysis II
-- Estimation Theory I (Likelihood, Curve fitting)
-- Estimation Theory II (Bayesian Inference, MCMC)
-- CUDA Programming
-- Computer Control of Instruments 1: MATLAB
-- Computer Control of Instruments 2: C, C++, .NET SDK
+- <span style="color: green;">^ Programming I: Basic Skills in MATLAB</span>
+- <span style="color: green;">^ Image Analysis</span>
+- <span style="color: blue;">Image Analysis II</span>
+- <span style="color: blue;">Estimation Theory I (Likelihood, Curve fitting)</span>
+- <span style="color: blue;">Estimation Theory II (Bayesian Inference, MCMC)</span>
+- <span style="color: blue;">CUDA Programming</span>
+- <span style="color: blue;">Computer Control of Instruments 1: MATLAB</span>
+- <span style="color: blue;">Computer Control of Instruments 2: C, C++, .NET SDK</span>
 
 #### Other
 
-- \* Microfluidics (L)
-- \* Machine Shop (L)
-- Develop a New Module-3
+- <span style="color: blue;">* Microfluidics (L)</span>
+- <span style="color: blue;">* Machine Shop (L)</span>
+- <span style="color: blue;">Develop a New Module-3</span>
 
 ---
 
@@ -148,5 +143,18 @@ This section will be periodically updated to provide more details about the modu
 - [Numerical Recipes](http://numerical.recipes/)
 - [http://www.cplusplus.com](http://www.cplusplus.com/)
 - [http://www.cprogramming.com](http://www.cprogramming.com)
+
+---
+
+© The University of New Mexico, Albuquerque, NM 87131, (505) 277-0111
+
+- [Accessibility](http://www.unm.edu/accessibility.html)
+- [Legal](http://www.unm.edu/legal.html)
+- [Website Comments](/website_comments.html)
+- [Contact UNM](http://www.unm.edu/contactunm.html)
+
+
+
+
 
 
