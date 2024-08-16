@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Biophysics Graduate Students I Module Sequence"
-permalink: /Courses/BiophysicsFall2024/ModuleSeq_GradI/
+permalink: /Courses/BiophysicsFall2024/module-seq-grad-i/
 ---
 
 # Biophysics Graduate Students I

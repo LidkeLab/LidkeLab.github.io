@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "BioMedical Sciences Graduate Student Module Sequence"
-permalink: /Courses/BiophysicsFall2024/ModuleSeq_BMSG/
+permalink: /Courses/BiophysicsFall2024/module-seq-bms-grad/
 ---
 
 # BioMedical Sciences Graduate Student
