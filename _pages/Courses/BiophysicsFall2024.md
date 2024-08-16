@@ -29,7 +29,7 @@ There is no required text for the class. Many reference resources will be listed
 
 ### Grading
 
-Letter grades correspond with numerical scores as given by this scale: [Grade Scale](grading.html). Grades will be assigned based on the following:
+Letter grades correspond with numerical scores as given by this scale: [Grade Scale](grading). Grades will be assigned based on the following:
 
 #### Homework and Lab (70%)
 
