@@ -14,7 +14,7 @@ e-mail: klidke@unm.edu
 
 ### Lab and Office Hours
 
-Monday and Wednesday at 15:30-16:45 in PAIS 1140, 2409
+Monday and Wednesday at 15:30-16:45 in PAIS 1140, 2410, 2409
 The logistics and scheduling of lab experiments will depend on the number of students and the modules under study.
 
 ---
@@ -110,12 +110,15 @@ This section will be periodically updated to provide more details about the modu
 ---
 
 ### Recommended Module Sequences
+### Recommended Module Sequences
+### Recommended Module Sequences
+### Recommended Module Sequences
 
-- [Undergraduate with Biophysics Concentration](ModuleSeq_BiophysicsUG.html)
-- [Biophysics Grad I](ModuleSeq_GradI.html)
-- [Biophysics Grad II](ModuleSeq_GradII.html)
-- [Biomedical Sciences Grad](ModuleSeq_BMSG.html)
-- [BioPhotonics Grad](ModuleSeq_BioPhotonics.html)
+- [Undergraduate with Biophysics Concentration](module-seq-biophysics-ug)
+- [Biophysics Grad I](module-seq-grad-i)
+- [Biophysics Grad II](module-seq-grad-ii)
+- [Biomedical Sciences Grad](module-seq-bms-grad)
+- [BioPhotonics Grad](module-seq-biophotonics)
 
 ---
 
@@ -124,7 +127,7 @@ This section will be periodically updated to provide more details about the modu
 #### Installing MATLAB
 
 1. Create an account at mathworks.com using your UNM email address.
-2. Download and install the latest version of MATLAB (e.g. R2020a). We will not need or use most toolboxes. If you want to save download time and disk space, just install MATLAB and these toolboxes:
+2. Download and install the latest version of MATLAB (e.g. R2024b). We will not need or use most toolboxes. If you want to save download time and disk space, just install MATLAB and these toolboxes:
    - Statistics
    - Symbolic Math Toolbox
    - Image Processing Toolbox
