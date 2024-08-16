@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "BioPhotonics Graduate Student Module Sequence"
-permalink: /Courses/BiophysicsFall2024/ModuleSeq_BioPhotonics/
+permalink: /Courses/BiophysicsFall2024/module-seq-biophotonics/
 ---
 
 # BioPhotonics Graduate Student
