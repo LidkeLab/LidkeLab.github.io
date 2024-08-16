@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Undergraduate with Biophysics Concentration Module Sequence"
-permalink: /Courses/BiophysicsFall2024/ModuleSeq_BiophysicsUG/
+permalink: /Courses/BiophysicsFall2024/module-seq-biophysics-ug/
 ---
 
 # Undergraduate with Biophysics Concentration

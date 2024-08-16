@@ -110,9 +110,6 @@ This section will be periodically updated to provide more details about the modu
 ---
 
 ### Recommended Module Sequences
-### Recommended Module Sequences
-### Recommended Module Sequences
-### Recommended Module Sequences
 
 - [Undergraduate with Biophysics Concentration](module-seq-biophysics-ug)
 - [Biophysics Grad I](module-seq-grad-i)

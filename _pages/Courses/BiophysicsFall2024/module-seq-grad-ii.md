@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Biophysics Graduate Students II Module Sequence"
-permalink: /Courses/BiophysicsFall2024/ModuleSeq_GradII/
+permalink: /Courses/BiophysicsFall2024/module-seq-grad-ii/
 ---
 
 # Biophysics Graduate Students II
