@@ -7,8 +7,6 @@ author_profile: true
 
 # UNM Physics 480/581: Biological Physics
 
-![PandA Home](images/panda_header.gif)
-
 ### Instructor: Prof. Keith Lidke
 
 Room 2218 PAIS  
@@ -16,14 +14,14 @@ e-mail: klidke@unm.edu
 
 ### Lab and Office Hours
 
-Tentatively: Monday and Wednesday at 16:00-17:30 in PAIS 1160,2015,2409
+Monday and Wednesday at 15:30-16:45 in PAIS 1140, 2409
 The logistics and scheduling of lab experiments will depend on the number of students and the modules under study.
 
 ---
 
 ### Overview
 
-This course is designed to provide a flexible biophysics curriculum for undergraduate and graduate students from a range of majors and degree programs including Physics and Astronomy, Optics, Engineering and Biomedical Science. This is not a lecture based course, it is instead organized around a selection of guided study modules that cover a wide range of topics in biophysics, microscopy and spectroscopy. Many modules have a significant laboratory component. The course can be taken for 1 to 3 credits where each credit requires three modules (9 modules required for 3 credits). The class may be taken twice for up to a total of 6 credits.
+This course is designed to provide a flexible biophysics curriculum for undergraduate and graduate students from a range of majors and degree programs including Physics and Astronomy, Optics, Engineering and Biomedical Science. This is not a lecture-based course, it is instead organized around a selection of guided study modules that cover a wide range of topics in biophysics, microscopy and spectroscopy. Many modules have a significant laboratory component. The course can be taken for 1 to 3 credits where each credit requires three modules (9 modules required for 3 credits). The class may be taken twice for up to a total of 6 credits.
 
 There is no required text for the class. Many reference resources will be listed or linked in each module.
 
@@ -47,11 +45,11 @@ Each module has a corresponding final exam. Exam proctoring will be offered once
 
 The modules listed below have attributes indicated by:
 <span style="color: green;">Appropriate for all undergraduates and graduate students</span>  
-<span style="color: blue;">Appropriate for upper division physics majors and graduate students</span>  
+<span style="color: blue;">Appropriate for upper division physics majors and all graduate students</span>  
 -X counts as X modules  
 (L) laboratory component  
-^ Available as starting module in Fall 2017. Contact instructor if you had planned to start with other modules.  
-\* May not be available in Fall 2017. Contact instructor if you plan to take this module.
+^ Available in Fall 2024. Contact instructor if you had planned to start with other modules.  
+\* May not be available in Fall 2024. Contact instructor if you plan to take this module.
 
 This section will be periodically updated to provide more details about the modules.
 
@@ -64,7 +62,6 @@ This section will be periodically updated to provide more details about the modu
 - <span style="color: blue;">Free Energy and Entropic Forces</span>
 - <span style="color: blue;">* Theory of FRET</span>
 - <span style="color: blue;">* Ion Channels</span>
-- <span style="color: blue;">* Ultrasound</span>
 - <span style="color: blue;">* Molecular Dynamics</span>
 - <span style="color: blue;">* X-ray crystallography</span>
 - <span style="color: blue;">* AFM and SNOM</span>
@@ -95,18 +92,19 @@ This section will be periodically updated to provide more details about the modu
 #### Programming and Data/Image Analysis
 
 - <span style="color: green;">^ Programming I: Basic Skills in MATLAB</span>
+- <span style="color: green;">^ Programming I: Basic Skills in Python</span>
+- <span style="color: green;">^ Programming I: Basic Skills in Julia</span>
 - <span style="color: green;">^ Image Analysis</span>
 - <span style="color: blue;">Image Analysis II</span>
 - <span style="color: blue;">Estimation Theory I (Likelihood, Curve fitting)</span>
 - <span style="color: blue;">Estimation Theory II (Bayesian Inference, MCMC)</span>
 - <span style="color: blue;">CUDA Programming</span>
-- <span style="color: blue;">Computer Control of Instruments 1: MATLAB</span>
-- <span style="color: blue;">Computer Control of Instruments 2: C, C++, .NET SDK</span>
+- <span style="color: blue;">Computer Control of Instruments</span>
 
 #### Other
 
 - <span style="color: blue;">* Microfluidics (L)</span>
-- <span style="color: blue;">* Machine Shop (L)</span>
+- <span style="color: blue;">* 3D Printing (L)</span>
 - <span style="color: blue;">Develop a New Module-3</span>
 
 ---
