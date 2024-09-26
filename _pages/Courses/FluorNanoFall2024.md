@@ -18,7 +18,7 @@ Wednesday, 1:00 pm in PAIS 2210
 | Sep 11, 2024  | Sheng Liu | Journal Paper: [BNP-Track: a framework for superresolved tracking by Sgouralis, Presse](https://www.nature.com/articles/s41592-024-02349-9)       |
 | Sep 18, 2024  | Sajjad Khan | Journal Paper: [High-density volumetric super-resolution microscopy (2024)](https://www.nature.com/articles/s41467-024-45828-5) See also [Single molecule light field microscopy (2020)](https://opg.optica.org/optica/fulltext.cfm?uri=optica-7-9-1065&id=437460)      | 
 | Sep 25, 2024  | Chitra Shaji | Research Presentation: Oblique Plane Microscopy      |  
-| Oct 02, 2024  | Ellyse Taylor          |       |  
+| Oct 02, 2024  | Ellyse Taylor          | Journal Paper: [Simultaneous multicolor fluorescence imaging using PSF splitting by Eynde and Dedecker](https://www.nature.com/articles/s41592-024-02383-7)     |  
 | Oct 09, 2024  | Md Nasful Huda Prince          |       |  
 | Oct 16, 2024  | Mahsa Habibi          |       |  
 | Oct 23, 2024  | Nikhil Sain          |       |  
