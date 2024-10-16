@@ -20,9 +20,9 @@ Wednesday, 1:00 pm in PAIS 2210
 | Sep 25, 2024  | Chitra Shaji | Research Presentation: Oblique Plane Microscopy      |  
 | Oct 02, 2024  | Ellyse Taylor          | Journal Paper: [Simultaneous multicolor fluorescence imaging using PSF splitting by Eynde and Dedecker](https://www.nature.com/articles/s41592-024-02383-7)     |  
 | Oct 09, 2024  | Md Nasful Huda Prince          | Research Presentation: Lattice light-sheet microscopy      |  
-| Oct 16, 2024  | Mahsa Habibi          |       |  
+| Oct 16, 2024  | Ali Kazemi          |  Journal Paper: [POLCAM: instant molecular orientation microscopy for the life sciences](https://www.nature.com/articles/s41592-024-02382-8)     |  
 | Oct 23, 2024  | Nikhil Sain          |       |  
-| Oct 30, 2024  | Ali Kazemi          |       |  
+| Oct 30, 2024  | Mahsa Habibi          |       |  
 | Nov 06, 2024  | Sajjad Khan          |       |  
 | Nov 13, 2024  | Chitra Shaji          |       |  
 | Nov 20, 2024  | Ellyse Taylor          |       |  
