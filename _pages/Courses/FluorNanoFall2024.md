@@ -21,7 +21,7 @@ Wednesday, 1:00 pm in PAIS 2210
 | Oct 02, 2024  | Ellyse Taylor          | Journal Paper: [Simultaneous multicolor fluorescence imaging using PSF splitting by Eynde and Dedecker](https://www.nature.com/articles/s41592-024-02383-7)     |  
 | Oct 09, 2024  | Md Nasful Huda Prince          | Research Presentation: Lattice light-sheet microscopy      |  
 | Oct 16, 2024  | Ali Kazemi          |  Journal Paper: [POLCAM: instant molecular orientation microscopy for the life sciences](https://www.nature.com/articles/s41592-024-02382-8)     |  
-| Oct 23, 2024  | Nikhil Sain          |       |  
+| Oct 23, 2024  | Nikhil Sain          | Journal Paper: [Large Field of View and Isotropic Light Sheet Microscopy with Aberration-Free Tunable Foci](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202400214)      |  
 | Oct 30, 2024  | Mahsa Habibi          |       |  
 | Nov 06, 2024  | Sajjad Khan          |       |  
 | Nov 13, 2024  | Chitra Shaji          |       |  
