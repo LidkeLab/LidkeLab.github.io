@@ -27,7 +27,7 @@ Wednesday, 1:00 pm in PAIS 2210
 | Nov 13, 2024  | Sajjad Khan          | Research Presentation      |  
 | Nov 20, 2024  | Ellyse Taylor          | Research Presentation: Cell Constructs for Particle Tracking on a Smart Microscope      |  
 | Nov 27, 2024  | Canceled          |       |  
-| Dec 04, 2024  | Chitra Shaji          |       |  
+| Dec 04, 2024  | Chitra Shaji          | Journal Paper: [High-resolution single-photon imaging with physics-informed deep learning](https://www.nature.com/articles/s41467-023-41597-9)      |  
 
 
 
