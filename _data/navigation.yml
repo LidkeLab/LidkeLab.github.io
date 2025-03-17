@@ -18,9 +18,21 @@ main:
   - title: "Team"
     url: /team/
   
+
+  - title: "News"
+  - url: /year-archive/
+  
+  - title: "Research Highlights"
+  - url: /portfolio/
+  
+  - title: "Team"
+    url: /team/
+  
   - title: "Publications"
     url: /publications/
 
+  - title: "Tools"
+    url: /tools/    
   - title: "Tools"
     url: /tools/    
 
@@ -36,8 +48,8 @@ main:
   # - title: "CV"
   #   url: /cv/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
