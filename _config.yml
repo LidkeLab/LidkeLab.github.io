@@ -8,14 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 site_theme               : "default"
 title                    : "Your Name / Site Title"
-=======
-title                    : "K.A. Lidke Labratory"
->>>>>>> a93f27c (Update _config.yml)
 title_separator          : "-"
-name                     : &name "Keith A. Lidke"
 name                     : &name "Keith A. Lidke"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
