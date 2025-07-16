@@ -152,19 +152,14 @@ analytics:
     tracking_id          :
 
 
-<<<<<<< HEAD
-=======
 # Site Author
 author:
-  name             : "Keith A. Lidke"
   name             : "Keith A. Lidke"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Albuquerque, NM USA"
-  location         : "Albuquerque, NM USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=kYEBbeEAAAAJ&hl=en"
   googlescholar    : "https://scholar.google.com/citations?user=kYEBbeEAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -176,7 +171,6 @@ author:
   facebook         :
   foursquare       :
   github           : "LidkeLab"
-  github           : "LidkeLab"
   google_plus      :
   keybase          :
   instagram        :
@@ -184,13 +178,11 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-9328-4318"
-  orcid            : "https://orcid.org/0000-0002-9328-4318"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
   twitter          : 
   vine             :
   weibo            :
@@ -198,8 +190,6 @@ author:
   youtube          :
   wikipedia        :
 
-
->>>>>>> c78811b (Update _config.yml)
 # Reading Files
 include:
   - .htaccess
