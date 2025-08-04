@@ -51,7 +51,9 @@ The concepts will include:
 - Microscope Point Spread Function calculations and engineering
 - Single molecule localization microscopy (SMLM) data
 - Detectors and noise models
+
 **Image and Data Analysis Techniques**
+
 - Estimation theory, Fisher Information and Cramer-Rao Lower Bounds
 - Bayesian Methods
 - Basic image and data processing 
