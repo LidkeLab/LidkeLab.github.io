@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Use project-local gem installation to avoid file locking issues
+export GEM_HOME="$PWD/.gems"
+export PATH="$GEM_HOME/bin:$PATH"
+
+echo "Setting up Jekyll dependencies..."
+echo "Using GEM_HOME: $GEM_HOME"
+
+# Install bundler to project-local gems
+gem install bundler 2>&1 | grep -E "(Successfully installed|already installed)" || true
+
+# Configure bundler for local installation
+bundle config set --local path 'vendor/bundle'
+
+# Install dependencies
+bundle install

@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Use same gem paths as setup
+export GEM_HOME="$PWD/.gems"
+export PATH="$GEM_HOME/bin:$PATH"
+
+exec bundle exec jekyll serve --livereload --host 127.0.0.1 --port 4000
